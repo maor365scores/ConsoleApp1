@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RXJ4lHXGMxuYpnbXRbferTDEGeIjUi5EM7isRdavw0hFn2lZtfGcelef/Ac81d0UsrpZg9EA6000MNV//iQ+Ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maor\\RiderProjects\\ConsoleApp1\\Hash\\Hash.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maor\\.nuget\\packages\\deepequal\\2.0.0\\deepequal.2.0.0.nupkg.sha512",
+    "C:\\Users\\maor\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
